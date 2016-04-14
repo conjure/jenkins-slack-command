@@ -8,9 +8,6 @@
       "description": "Token from your 'Slash Command'",
       "required": true
     },
-    "SLACK_WEBHOOK_URL": {
-      "description": "Your incoming webhook URL"
-    },
     "JENKINS_URL": {
       "description": "URL to your Heroku instnace",
       "required": true
